@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Nikunj Parmar  
 
-## Portfolio: [Nikunj Parmar](https://my-portfolio-nine-eta-71.vercel.app/)
+## ☸️ Portfolio: [Nikunj Parmar](https://my-portfolio-nine-eta-71.vercel.app/)
 
-## 🚀 DevOps Engineer & Full Stack Web Developer  
+## 🚀 DevOps & Backend Engineer
 
 ### 💡 Passionate about automation, cloud computing, and scalable web solutions  
 
